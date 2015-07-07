@@ -6,7 +6,6 @@ use warnings;
 use JSON;
 
 use lib::Manufacturer;
-use lib::Family;
 use lib::Model;
 use lib::Util;
 use lib::Tester;
