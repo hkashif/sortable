@@ -3,7 +3,7 @@
 ##Caveats:
 
 1. If a certain manufacturer, say, makes accessories for another company's products, and the former's name is part of the other's name, this algorithm will fail.
-I did not find this case throughout the supplised products + listings, so I assumed it is safe to do so.
+I did not find this case throughout the supplied products + listings, so I assumed it is safe to do so.
 2. Some product model names are only numbers like "600". This causes some listings to fail when this number is used for another purpose (e.g., 600mm)
 3. Some model names are strange, creating either false negatives or false positives (e.g., zoom)
 
